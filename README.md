@@ -1,2 +1,2 @@
-Hello Ambassador Santos \n 
-Hello to you Sir.
+- Hello Ambassador Santos  
+- Hello to you Sir.
